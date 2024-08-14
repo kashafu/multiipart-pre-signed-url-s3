@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Chandan Maurya",
+  "author": "Kashaf Arshad",
   "license": "ISC",
   "description": "NodeJs API to generate AWS S3 multipart file upload ",
   "dependencies": {
